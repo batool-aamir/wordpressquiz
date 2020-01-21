@@ -4,13 +4,6 @@
 
 /*batool css start*/
 
-button, html input[type=button], input[type=reset], input[type=submit] {
-    -webkit-appearance: button;
-    cursor: pointer;
-    font-size: 25px;
-    padding: 10px;
-    background: #C8AC48;
-}
 .inner-wrapper {
     margin: 25px 0px;
 }
