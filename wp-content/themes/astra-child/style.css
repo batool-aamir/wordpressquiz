@@ -4,3 +4,198 @@ Theme URI: https://wpastra.com/
 Text Domain: astra-child
 Template:astra
 */
+
+
+/*contact css start*/
+.inner-wrapper {
+    margin: 15px 0px;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    border-radius: 10px;
+    font-family: "Berkshire Swash", sans-serif;
+}
+article#post-31 {
+    padding: 20px 50px;
+}
+
+.wpcf7 form{position:relative}.wpcf7 form>div,.wpcf7 form>p{margin-bottom:1.2em}.wpcf7 .wpcf7-form-control-wrap{width:50%;display:block;border: 3px solid #c8ac48;line-height: 50px;
+margin:10px 0px;}.wpcf7 input:not([type=submit]):focus,.wpcf7 select:focus,.wpcf7 textarea:focus{background:#fff;border-color:#eaeaea;outline:0;box-shadow:none}.wpcf7 input:not([type=submit]),.wpcf7 select,.wpcf7 textarea{width:100%;padding:.75em}.wpcf7 input[type=file]{color:#666;height:auto;border-width:1px;border-style:solid;border-color:#eaeaea;border-radius:21x;background:#fafafa;box-shadow:none;box-sizing:border-box;transition:all .2s linear}.wpcf7 input[type=checkbox],.wpcf7 input[type=radio]{display:inline-block;background:#e9eef2;color:#555;clear:none;cursor:pointer;line-height:0;height:1.2em;margin:-3px 4px 0 0;outline:0;padding:0;border-radius:.1em;text-align:center;vertical-align:middle;width:1.4em;min-width:1.4em;transition:all .2s linear}.wpcf7 .wpcf7-validation-errors{border-color:red}
+h1.entry-title {
+    color: #283d62;
+    font-size: 40px;
+}
+
+label {
+    color: #283d62;
+}
+main#main {
+    border: 5px solid  #283d62;
+}
+
+
+/*contact css end*/
+
+/*quiz css start*/
+
+.elementor-17 .elementor-element.elementor-element-b6078ed.elementor-widget-heading .elementor-heading-title:hover {
+    color: #c8ac48;
+}
+h1.entry-title {display: none;}
+
+article#post-17 {
+    padding: 10px;
+}
+h1.entry-title.erase {
+    color: white;
+}
+.page .entry-header {
+ 
+}
+
+.entry-header {
+    /* margin-bottom: 1em; */
+    word-wrap: break-word;
+}
+label {}
+
+input#forms_1_0 {
+    border: 3px solid #c8ac48;
+}
+
+input#forms_1_1 {
+    border: 3px solid #c8ac48;
+}
+
+input.wpProQuiz_button {
+    padding: 24px;
+}
+
+div.wpProQuiz_button {
+}
+
+input.wpProQuiz_button {
+    font-size: larger;
+    font-family: "Berkshire Swash", sans-serif;
+    line-height: 40px;
+    background: #c8ac48;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.wpcf7 form{position:relative}.wpcf7 form>div,.wpcf7 form>p{margin-bottom:1.2em}.wpcf7 input:not([type=submit]):focus,.wpcf7 select:focus,.wpcf7 textarea:focus{background:#fff;border-color:#eaeaea;outline:0;box-shadow:none}.wpcf7 input:not([type=submit]),.wpcf7 select,.wpcf7 textarea{width:100%;padding:.75em}.wpcf7 input[type=file]{color:#666;height:auto;border-width:1px;border-style:solid;border-color:#eaeaea;border-radius:21x;background:#fafafa;box-shadow:none;box-sizing:border-box;transition:all .2s linear}.wpcf7 input[type=checkbox],.wpcf7 input[type=radio]{display:inline-block;background:#e9eef2;color:#555;clear:none;cursor:pointer;line-height:0;height:1.2em;margin:-3px 4px 0 0;outline:0;padding:0;border-radius:.1em;text-align:center;vertical-align:middle;width:1.4em;min-width:1.4em;transition:all .2s linear}.wpcf7 .wpcf7-validation-errors{border-color:red}
+.wpProQuiz_questionList {
+    margin-bottom: 10px!important;
+    border: 3px solid #c8ac48!important;
+    padding: 5px!important;
+    list-style: none!important;
+    background: #f5f5f5;
+}
+input.wpProQuiz_button.wpProQuiz_QuestionButton {background: #c8ac48 !important;border: none !important;border-radius: 10px !important;padding: 10px 20px !important;}
+
+input.wpProQuiz_button.wpProQuiz_QuestionButton:hover {
+    background: black !important;
+;border: none !important;border-radius: 10px !important;padding: 10px 20px !important
+}
+input.wpProQuiz_button {background: #c8ac48 !important;border-radius: 10px !important;padding: 10px 20px !important;border: none !important;}
+
+input.wpProQuiz_button:hover {
+    background: black !important;
+    border-radius: 10px !important;
+    padding: 10px 20px !important;
+    border: none !important;
+}
+.wpProQuiz_time_limit .wpProQuiz_progress{
+background-color: #283d62!important;}
+
+/*quiz css end*/
+/*login css start*/
+a, a:focus, a:hover, a:visited {
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+h1.entry-title {
+text-align: center;}
+.um-misc-img img {
+    border-radius: 999px;
+    height: 200px;
+    width:200px;
+    display: inline-block !important;
+}
+.um strong {
+    color: #283d62;
+font-size: 45px;}
+/*login css end*/
+/*register css start*/
+.um-field .um-field-label label {
+    font-size: 22px  !important;
+    font-weight: bold;
+    font-weight: 600;
+    color: #283d62;
+}
+.um input[type=submit].um-button:hover, .um a.um-button:hover {
+    background: black;
+}
+.um input[type=submit].um-button, .um input[type=submit].um-button:focus, .um a.um-button, .um a.um-button.um-disabled:hover, .um a.um-button.um-disabled:focus, .um a.um-button.um-disabled:active {
+    background: #c8ac48;
+}
+.um-field-area {
+    border: 3px solid #c8ac48;
+    margin: 10px;
+    padding: 10px;
+}
+/*register css end*/
+/*account css start*/
+.um input[type=submit].um-button, .um input[type=submit].um-button:focus, .um a.um-button, .um a.um-button.um-disabled:hover, .um a.um-button.um-disabled:focus, .um a.um-button.um-disabled:active {
+    background: #c8ac48;
+    border-radius: 10px !important;
+font-family: "Berkshire Swash", sans-serif;
+}
+.um-account-profile-link {
+    display: none;
+}
+
+.um-account-name.uimob800-hide {
+    display: none;
+}
+img.gravatar.avatar.avatar-120.um-avatar.um-avatar-default {display: none;}
+
+
+.um-account-side.uimob340-hide.uimob500-hide {margin-top: 200px;}
+/*account css end*/
+
+
+
+
+.section-musicom-list .container{
+    padding: 5% 0;
+}
+.section-musicom-list .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.section-musicom-list .row .two-col {
+    width: 46%;
+    padding: 5%;
+    margin: 0 2%;
+    box-sizing: border-box;
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 10px 35px -15px rgba(0,0,0,0.3);
+}
+.section-musicom-list .row .two-col .title {
+    font-size: 32px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.section-musicom-list .row .two-col .content{
+    font-size: 14px;
+    line-height: 1.8;
+}
+.section-musicom-list .row .two-col .read-more{
+    background: #c82226;
+    color: #fff;
+    padding: 3px 30px;
+    margin-top: 20px;
+    float: left;
+    font-size: 16px;
+    border-radius: 42px;
+}
